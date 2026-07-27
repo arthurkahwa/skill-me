@@ -32,7 +32,7 @@ Any runtime that loads Agent Skills (`SKILL.md` + frontmatter) can use this dire
 **Claude Code**
 
 ```bash
-git clone https://github.com:arthurkahwa/skill-me.git ~/.claude/skills/skill-me
+git clone https://github.com/arthurkahwa/skill-me.git ~/.claude/skills/skill-me
 ```
 
 Restart Claude Code. Confirm with `/skills`.
