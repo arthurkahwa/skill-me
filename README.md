@@ -10,7 +10,7 @@ Most AI use is delegation: you ask for the thing, you get the thing. This skill 
 
 The trainer can spot you. The trainer cannot lift the bar.
 
-> Companion piece: **Skill me!** — [ARTICLE-URL]
+> Companion piece: **Skill me!** — [Medium](https://medium.com/@arthur.kahwa/skill-me-69944061337a)
 
 ## What it does
 
